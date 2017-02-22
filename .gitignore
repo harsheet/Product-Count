@@ -1,0 +1,17 @@
+/src/packages/*
+obj
+bin
+*.suo
+*.user
+
+**/App_Data/*
+# access.config holds content protection configuration
+!**/App_Data/access.config
+
+
+.DS_Store
+*.swp
+*.lock
+*sublime*
+
+
